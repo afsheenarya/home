@@ -104,6 +104,7 @@ td
 {
     background-color : #605353;
 }
+/*This fills the boxes on the table corresponding with the quality ranking for each category of the backpack rubric*/
 .td-bold
 {
     font-weight : 900;
