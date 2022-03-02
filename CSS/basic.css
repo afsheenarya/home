@@ -150,6 +150,7 @@ h1, h2, h3
     display: flex;
     vertical-align: top;
 }
+/*This places the images on one side and text on the other.*/
 #index-header
 {
     color : #81b0f7;
